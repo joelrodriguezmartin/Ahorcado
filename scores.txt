@@ -1,0 +1,5 @@
+300:Bernarda 
+200:Juan
+100:Pepito
+0:Juan
+65:Juan

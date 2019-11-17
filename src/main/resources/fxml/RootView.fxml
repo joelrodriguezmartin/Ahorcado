@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Tab?>
+<?import javafx.scene.control.TabPane?>
+
+<TabPane fx:id="root" maxHeight="1.7976931348623157E308" maxWidth="1.7976931348623157E308" tabClosingPolicy="UNAVAILABLE" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1">
+	<tabs>
+          <Tab fx:id="roundTab" closable="false" text="Round">
+            <content>
+              
+                
+            </content>
+          </Tab>
+          <Tab fx:id="wordsTab" closable="false" text="Words">
+            <content>
+              
+                      
+            </content>
+          </Tab>
+          <Tab fx:id="scoresTab" closable="false" text="Scores">
+            <content>
+              
+            </content>
+          </Tab>
+    </tabs>
+</TabPane>
